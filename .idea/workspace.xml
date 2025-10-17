@@ -4,17 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d72970d2-8424-4f12-9a40-958aee5b305b" name="Changes" comment="Commit literal">
-      <change afterPath="$PROJECT_DIR$/src/Task/Area_of_circle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task/Area_of_triangle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task/Number_Validation_greterthe100.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_04_Operators/Lab031_Arth_Op.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_04_Operators/Lab031_Arth_Operators.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_04_Operators/Lab031_UnaryOperator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_04_Operators/Lab032_Comparision_Op.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_04_Operators/Lab033_Logic_Operator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_04_Operators/Lab034_Operators_P2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_04_Operators/Lab035_Operators_P4.py" afterDir="false" />
+    <list default="true" id="d72970d2-8424-4f12-9a40-958aee5b305b" name="Changes" comment="ComitOperator">
+      <change afterPath="$PROJECT_DIR$/src/ex_05_Condition_Loops/Lab043_IF_Condition.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_05_Condition_Loops/Lab044_ELSEIF.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_05_Condition_Loops/Lab045_If_Else_Condition.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_05_Condition_Loops/Lab046_if_else_elif.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_05_Condition_Loops/Lab047_Grade_Calc.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -74,6 +69,11 @@
     "Python.Lab032_Comparision_Op.executor": "Run",
     "Python.Lab033_Logic_Operator.executor": "Run",
     "Python.Lab034_Operators_P2.executor": "Run",
+    "Python.Lab043_IF_Condition.executor": "Run",
+    "Python.Lab044_ELSEIF.executor": "Run",
+    "Python.Lab045_If_Else_Condition.executor": "Run",
+    "Python.Lab046_if_else_elif.executor": "Run",
+    "Python.Lab047_Grade_Calc.executor": "Run",
     "Python.Lab_0013_Stringconcatanation.executor": "Run",
     "Python.Lab_0014_Literals.executor": "Run",
     "Python.Lab_0016_BuiltInFunction.executor": "Run",
@@ -91,8 +91,8 @@
     "git-widget-placeholder": "master"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.Number_Validation_greterthe100">
-    <configuration name="Area_of_circle" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Lab047_Grade_Calc">
+    <configuration name="Lab043_IF_Condition" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB6xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -101,11 +101,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/Task" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_05_Condition_Loops" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/Task/Area_of_circle.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_05_Condition_Loops/Lab043_IF_Condition.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -114,7 +114,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Area_of_triangle" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab044_ELSEIF" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB6xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -123,11 +123,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/Task" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_05_Condition_Loops" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/Task/Area_of_triangle.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_05_Condition_Loops/Lab044_ELSEIF.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -136,7 +136,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab033_Logic_Operator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab045_If_Else_Condition" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB6xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -145,11 +145,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_04_Operators" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_05_Condition_Loops" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_04_Operators/Lab033_Logic_Operator.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_05_Condition_Loops/Lab045_If_Else_Condition.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -158,7 +158,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab034_Operators_P2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab046_if_else_elif" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB6xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -167,11 +167,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_04_Operators" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_05_Condition_Loops" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_04_Operators/Lab034_Operators_P2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_05_Condition_Loops/Lab046_if_else_elif.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -180,7 +180,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Number_Validation_greterthe100" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab047_Grade_Calc" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB6xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -189,11 +189,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/Task" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_05_Condition_Loops" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/Task/Number_Validation_greterthe100.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_05_Condition_Loops/Lab047_Grade_Calc.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -204,11 +204,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Number_Validation_greterthe100" />
-        <item itemvalue="Python.Area_of_triangle" />
-        <item itemvalue="Python.Area_of_circle" />
-        <item itemvalue="Python.Lab034_Operators_P2" />
-        <item itemvalue="Python.Lab033_Logic_Operator" />
+        <item itemvalue="Python.Lab047_Grade_Calc" />
+        <item itemvalue="Python.Lab045_If_Else_Condition" />
+        <item itemvalue="Python.Lab046_if_else_elif" />
+        <item itemvalue="Python.Lab044_ELSEIF" />
+        <item itemvalue="Python.Lab043_IF_Condition" />
       </list>
     </recent_temporary>
   </component>
@@ -291,7 +291,15 @@
       <option name="project" value="LOCAL" />
       <updated>1760502970392</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="ComitOperator">
+      <option name="closed" value="true" />
+      <created>1760578059604</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1760578059604</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -313,6 +321,18 @@
     <MESSAGE value="Variable name" />
     <MESSAGE value="Commit -Keyword,variable,identifier" />
     <MESSAGE value="Commit literal" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit literal" />
+    <MESSAGE value="ComitOperator" />
+    <option name="LAST_COMMIT_MESSAGE" value="ComitOperator" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/src/ex_05_Condition_Loops/Lab045_If_Else_Condition.py</url>
+          <line>15</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
