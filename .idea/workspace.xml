@@ -5,11 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d72970d2-8424-4f12-9a40-958aee5b305b" name="Changes" comment="For Loop concept">
-      <change afterPath="$PROJECT_DIR$/src/Task/Factorial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task/SimmulationWebPageLoop.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task/VerifyAPIcall.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_07_Loops/While/Lab053_While.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_07_Loops/While/LabWhile.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task/Contonue vs Pass.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task/EvenNumberPrint.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task/Print numbers from 10 down to 1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task/Skip numbers divisible by 3, from (0,100).py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -27,21 +26,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "Prem-093"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Prem-093&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Prem-093/PyATB6xLearning.git",
-    "accountId": "5a8063ca-6fe2-4395-92d3-529c63c0ddac"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Prem-093/PyATB6xLearning.git&quot;,
+    &quot;accountId&quot;: &quot;5a8063ca-6fe2-4395-92d3-529c63c0ddac&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="33lb56o3XAR42Qo9CxKdrV0kKPQ" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -52,6 +51,8 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.Area_of_circle.executor": "Run",
     "Python.Area_of_triangle.executor": "Run",
+    "Python.Contonue vs Pass.executor": "Run",
+    "Python.EvenNumberPrint.executor": "Run",
     "Python.Factorial.executor": "Run",
     "Python.Lab0010_Bodmas.executor": "Run",
     "Python.Lab0011_Multiple_Vriable.executor": "Run",
@@ -95,7 +96,9 @@
     "Python.Lab_0023_Escape_char.executor": "Run",
     "Python.Lab_0024_String_Double_string.executor": "Run",
     "Python.Number_Validation_greterthe100.executor": "Run",
+    "Python.Print numbers from 10 down to 1.executor": "Run",
     "Python.SimmulationWebPageLoop.executor": "Run",
+    "Python.Skip numbers divisible by 3, from (0,100).executor": "Run",
     "Python.Task1.executor": "Run",
     "Python.Task2.executor": "Run",
     "Python.VerifyAPIcall.executor": "Run",
@@ -104,11 +107,12 @@
     "Python.VerifyLoginCredentials.executor": "Run",
     "Python.VerifyWebPageloadTimeout.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.SimmulationWebPageLoop">
-    <configuration name="Factorial" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Print numbers from 10 down to 1">
+    <configuration name="Contonue vs Pass" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB6xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -121,7 +125,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/Task/Factorial.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/Task/Contonue vs Pass.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -130,7 +134,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab053_While" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="EvenNumberPrint" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB6xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -139,11 +143,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_07_Loops/While" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/Task" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_07_Loops/While/Lab053_While.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/Task/EvenNumberPrint.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -152,20 +156,17 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="LabWhile" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Print numbers from 10 down to 1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB6xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_07_Loops/While" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/Task" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_07_Loops/While/LabWhile.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/Task/Print numbers from 10 down to 1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -196,7 +197,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="VerifyAPIcall" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Skip numbers divisible by 3, from (0,100)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB6xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -209,7 +210,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/Task/VerifyAPIcall.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/Task/Skip numbers divisible by 3, from (0,100).py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -220,11 +221,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Print numbers from 10 down to 1" />
+        <item itemvalue="Python.Contonue vs Pass" />
+        <item itemvalue="Python.Skip numbers divisible by 3, from (0,100)" />
+        <item itemvalue="Python.EvenNumberPrint" />
         <item itemvalue="Python.SimmulationWebPageLoop" />
-        <item itemvalue="Python.VerifyAPIcall" />
-        <item itemvalue="Python.Lab053_While" />
-        <item itemvalue="Python.LabWhile" />
-        <item itemvalue="Python.Factorial" />
       </list>
     </recent_temporary>
   </component>
