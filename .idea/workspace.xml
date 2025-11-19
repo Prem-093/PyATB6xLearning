@@ -5,35 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d72970d2-8424-4f12-9a40-958aee5b305b" name="Changes" comment="For Loop concept">
-      <change afterPath="$PROJECT_DIR$/src/Lab075_Local_Variable/Lab075_Local_Variable.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lab075_Local_Variable/Lab076.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lab075_Local_Variable/Lab077_Local_Var.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lab075_Local_Variable/Lab078_Inner_Functions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Type Conversio n/Lab087_Type_Conversion.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_08_Functions/Function_IQ.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_08_Functions/Lab060_Built_In.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_08_Functions/Lab061_Example_Functions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_08_Functions/Lab062_Example_Functions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_08_Functions/Lab063_Function_Parameter.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_08_Functions/Lab064_Type3_Function_return.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_08_Functions/Lab065_Function_Default_Parameter.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_08_Functions/Lab066_Functions_Return_Multiple_Values.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_08_Functions/Lab067_Functions_Keyword_Arg.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_08_Functions/Lab068_User_Input_Pass_Function.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_08_Functions/Lab069_Functions_Types.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_08_Functions/Lab072_Infinite_Args.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_08_Functions/Lab073_Real_Args.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_08_Functions/LabQ01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_08_Functions/LabQ02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_08_Functions/LabQ03_REAL_Example.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_08_Functions/Lab_003.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_10_Decortors/Lab079_Decortors.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_10_Decortors/Lab080_Decor.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_10_Decortors/Lab082_Real_Decor.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_10_Decortors/Lab083_Decor_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_13_List/Lab097_List.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_13_List/ex_13_List.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_13_List/Lab098_POP.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_14_Tuple/Lab099_Tuple.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_14_Tuple/Lab100_Tuple.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_14_Tuple/Lab101_Tuple.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_15_Set/Lab102_SET.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_15_Set/Lab103_SET_P2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_15_Set/Lab104_SET_P3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_15_Set/Lab105_IQ.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_13_List/ex_13_List.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_13_List/ex_13_List.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -134,9 +115,23 @@
     &quot;Python.Lab083_Decor_2.executor&quot;: &quot;Run&quot;,
     &quot;Python.Lab087_Type_Conversion.executor&quot;: &quot;Run&quot;,
     &quot;Python.Lab097_List.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab098_POP.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab099_Tuple.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab100_Tuple.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab101_Tuple.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab102_SET.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab103_SET_P2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab104_SET_P3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab105_IQ.executor&quot;: &quot;Run&quot;,
     &quot;Python.Lab56_Q.executor&quot;: &quot;Run&quot;,
+    &quot;Python.LabFilter01.executor&quot;: &quot;Run&quot;,
+    &quot;Python.LabFilter02.executor&quot;: &quot;Run&quot;,
+    &quot;Python.LabFilter03.executor&quot;: &quot;Run&quot;,
+    &quot;Python.LabFilter04.executor&quot;: &quot;Run&quot;,
     &quot;Python.LabForReverse.executor&quot;: &quot;Run&quot;,
     &quot;Python.LabForUsedRealLife.executor&quot;: &quot;Run&quot;,
+    &quot;Python.LabMap02.executor&quot;: &quot;Run&quot;,
+    &quot;Python.LabMap03.executor&quot;: &quot;Run&quot;,
     &quot;Python.LabQ01.executor&quot;: &quot;Run&quot;,
     &quot;Python.LabQ02.executor&quot;: &quot;Run&quot;,
     &quot;Python.LabQ03_REAL_Example.executor&quot;: &quot;Run&quot;,
@@ -170,8 +165,8 @@
     &quot;git-widget-placeholder&quot;: &quot;master&quot;
   }
 }</component>
-  <component name="RunManager" selected="Python.Lab097_List">
-    <configuration name="Lab082_Real_Decor" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.LabFilter04">
+    <configuration name="LabFilter02" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB6xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -180,11 +175,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_10_Decortors" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_16_Map_Filters_List" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_10_Decortors/Lab082_Real_Decor.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_16_Map_Filters_List/LabFilter02.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -193,7 +188,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab083_Decor_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="LabFilter03" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB6xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -202,11 +197,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_10_Decortors" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_16_Map_Filters_List" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_10_Decortors/Lab083_Decor_2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_16_Map_Filters_List/LabFilter03.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -215,7 +210,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab087_Type_Conversion" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="LabFilter04" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB6xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -224,11 +219,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/Type Conversio n" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_16_Map_Filters_List" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/Type Conversio n/Lab087_Type_Conversion.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_16_Map_Filters_List/LabFilter04.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -237,7 +232,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab097_List" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="LabMap02" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB6xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -246,11 +241,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_13_List" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_16_Map_Filters_List" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_13_List/Lab097_List.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_16_Map_Filters_List/LabMap02.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -259,7 +254,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex_13_List" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="LabMap03" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB6xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -268,11 +263,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_13_List" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_16_Map_Filters_List" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_13_List/ex_13_List.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_16_Map_Filters_List/LabMap03.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -283,11 +278,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Lab097_List" />
-        <item itemvalue="Python.ex_13_List" />
-        <item itemvalue="Python.Lab087_Type_Conversion" />
-        <item itemvalue="Python.Lab082_Real_Decor" />
-        <item itemvalue="Python.Lab083_Decor_2" />
+        <item itemvalue="Python.LabFilter04" />
+        <item itemvalue="Python.LabFilter03" />
+        <item itemvalue="Python.LabFilter02" />
+        <item itemvalue="Python.LabMap03" />
+        <item itemvalue="Python.LabMap02" />
       </list>
     </recent_temporary>
   </component>
@@ -418,7 +413,15 @@
       <option name="project" value="LOCAL" />
       <updated>1761887299750</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="For Loop concept">
+      <option name="closed" value="true" />
+      <created>1762750672703</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1762750672703</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
