@@ -5,12 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d72970d2-8424-4f12-9a40-958aee5b305b" name="Changes" comment="newcodepush">
-      <change afterPath="$PROJECT_DIR$/src/ex_16_Map_Filters_List/LabFilter01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_16_Map_Filters_List/LabFilter02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_16_Map_Filters_List/LabFilter03.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_16_Map_Filters_List/LabFilter04.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_16_Map_Filters_List/LabMap02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_16_Map_Filters_List/LabMap03.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_17_Dict/Lab106_Dict.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_17_Dict/Lab107_Dict_P2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_17_Dict/Lab108_Dict_Mul.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,122 +45,125 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;Python.Area_of_circle.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Area_of_triangle.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Contonue vs Pass.executor&quot;: &quot;Run&quot;,
-    &quot;Python.EvenNumberPrint.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Factorial.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Function_IQ.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab0010_Bodmas.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab0011_Multiple_Vriable.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab0012_MathFunction.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab001_Python_Hello.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab003_print.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab004_Keyword.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab005_Variable_Part1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab006_Identifier.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab007_VariableName.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab008_Identifier_Rule.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab009_math.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab031_Arth_Op.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab031_Arth_Operators.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab031_UnaryOperator.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab032_Comparision_Op.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab033_Logic_Operator.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab034_Operators_P2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab043_IF_Condition.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab044_ELSEIF.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab045_If_Else_Condition.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab046_if_else_elif.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab047_Grade_Calc.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab048_Loop.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab049_For_Loop.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab050_For_Looops.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab051_IQ.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab052_IQ2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab053_While.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab054_For_While_IQ.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab055_For_break.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab057_Pass_Break.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab058_IQ_Even.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab059_Odd_Number.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab060_Built_In.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab061_Example_Functions.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab062_Example_Functions.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab063_Function_Parameter.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab064_Type3_Function_return.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab065_Function_Default_Parameter.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab066_Functions_Return_Multiple_Values.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab067_Functions_Keyword_Arg.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab068_User_Input_Pass_Function.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab069_Functions_Types.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab072_Infinite_Args.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab073_Real_Args.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab075_Local_Variable.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab076.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab077_Local_Var.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab078_Inner_Functions.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab079_Decortors.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab080_Decor.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab082_Real_Decor.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab083_Decor_2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab087_Type_Conversion.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab097_List.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab098_POP.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab099_Tuple.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab100_Tuple.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab101_Tuple.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab102_SET.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab103_SET_P2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab104_SET_P3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab105_IQ.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab56_Q.executor&quot;: &quot;Run&quot;,
-    &quot;Python.LabFilter01.executor&quot;: &quot;Run&quot;,
-    &quot;Python.LabFilter02.executor&quot;: &quot;Run&quot;,
-    &quot;Python.LabFilter03.executor&quot;: &quot;Run&quot;,
-    &quot;Python.LabFilter04.executor&quot;: &quot;Run&quot;,
-    &quot;Python.LabForReverse.executor&quot;: &quot;Run&quot;,
-    &quot;Python.LabForUsedRealLife.executor&quot;: &quot;Run&quot;,
-    &quot;Python.LabMap02.executor&quot;: &quot;Run&quot;,
-    &quot;Python.LabMap03.executor&quot;: &quot;Run&quot;,
-    &quot;Python.LabQ01.executor&quot;: &quot;Run&quot;,
-    &quot;Python.LabQ02.executor&quot;: &quot;Run&quot;,
-    &quot;Python.LabQ03_REAL_Example.executor&quot;: &quot;Run&quot;,
-    &quot;Python.LabWhile.executor&quot;: &quot;Run&quot;,
-    &quot;Python.LabWhile_Vs_For.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab_0013_Stringconcatanation.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab_0014_Literals.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab_0016_BuiltInFunction.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab_0017_UserInput.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab_0018_Sum of two numbers.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab_0019_String.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab_0020_StringConversion.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab_0021_Stringconcat.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab_0023_Escape_char.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab_0024_String_Double_string.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab_003.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Number_Validation_greterthe100.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Print numbers from 10 down to 1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.SimmulationWebPageLoop.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Skip numbers divisible by 3, from (0,100).executor&quot;: &quot;Run&quot;,
-    &quot;Python.Task1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Task2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.VerifyAPIcall.executor&quot;: &quot;Run&quot;,
-    &quot;Python.VerifyAPIresponsecode.executor&quot;: &quot;Run&quot;,
-    &quot;Python.VerifyExpectedAndOutput.executor&quot;: &quot;Run&quot;,
-    &quot;Python.VerifyLoginCredentials.executor&quot;: &quot;Run&quot;,
-    &quot;Python.VerifyWebPageloadTimeout.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex_13_List.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.Area_of_circle.executor": "Run",
+    "Python.Area_of_triangle.executor": "Run",
+    "Python.Contonue vs Pass.executor": "Run",
+    "Python.EvenNumberPrint.executor": "Run",
+    "Python.Factorial.executor": "Run",
+    "Python.Function_IQ.executor": "Run",
+    "Python.Lab0010_Bodmas.executor": "Run",
+    "Python.Lab0011_Multiple_Vriable.executor": "Run",
+    "Python.Lab0012_MathFunction.executor": "Run",
+    "Python.Lab001_Python_Hello.executor": "Run",
+    "Python.Lab003_print.executor": "Run",
+    "Python.Lab004_Keyword.executor": "Run",
+    "Python.Lab005_Variable_Part1.executor": "Run",
+    "Python.Lab006_Identifier.executor": "Run",
+    "Python.Lab007_VariableName.executor": "Run",
+    "Python.Lab008_Identifier_Rule.executor": "Run",
+    "Python.Lab009_math.executor": "Run",
+    "Python.Lab031_Arth_Op.executor": "Run",
+    "Python.Lab031_Arth_Operators.executor": "Run",
+    "Python.Lab031_UnaryOperator.executor": "Run",
+    "Python.Lab032_Comparision_Op.executor": "Run",
+    "Python.Lab033_Logic_Operator.executor": "Run",
+    "Python.Lab034_Operators_P2.executor": "Run",
+    "Python.Lab043_IF_Condition.executor": "Run",
+    "Python.Lab044_ELSEIF.executor": "Run",
+    "Python.Lab045_If_Else_Condition.executor": "Run",
+    "Python.Lab046_if_else_elif.executor": "Run",
+    "Python.Lab047_Grade_Calc.executor": "Run",
+    "Python.Lab048_Loop.executor": "Run",
+    "Python.Lab049_For_Loop.executor": "Run",
+    "Python.Lab050_For_Looops.executor": "Run",
+    "Python.Lab051_IQ.executor": "Run",
+    "Python.Lab052_IQ2.executor": "Run",
+    "Python.Lab053_While.executor": "Run",
+    "Python.Lab054_For_While_IQ.executor": "Run",
+    "Python.Lab055_For_break.executor": "Run",
+    "Python.Lab057_Pass_Break.executor": "Run",
+    "Python.Lab058_IQ_Even.executor": "Run",
+    "Python.Lab059_Odd_Number.executor": "Run",
+    "Python.Lab060_Built_In.executor": "Run",
+    "Python.Lab061_Example_Functions.executor": "Run",
+    "Python.Lab062_Example_Functions.executor": "Run",
+    "Python.Lab063_Function_Parameter.executor": "Run",
+    "Python.Lab064_Type3_Function_return.executor": "Run",
+    "Python.Lab065_Function_Default_Parameter.executor": "Run",
+    "Python.Lab066_Functions_Return_Multiple_Values.executor": "Run",
+    "Python.Lab067_Functions_Keyword_Arg.executor": "Run",
+    "Python.Lab068_User_Input_Pass_Function.executor": "Run",
+    "Python.Lab069_Functions_Types.executor": "Run",
+    "Python.Lab072_Infinite_Args.executor": "Run",
+    "Python.Lab073_Real_Args.executor": "Run",
+    "Python.Lab075_Local_Variable.executor": "Run",
+    "Python.Lab076.executor": "Run",
+    "Python.Lab077_Local_Var.executor": "Run",
+    "Python.Lab078_Inner_Functions.executor": "Run",
+    "Python.Lab079_Decortors.executor": "Run",
+    "Python.Lab080_Decor.executor": "Run",
+    "Python.Lab082_Real_Decor.executor": "Run",
+    "Python.Lab083_Decor_2.executor": "Run",
+    "Python.Lab087_Type_Conversion.executor": "Run",
+    "Python.Lab097_List.executor": "Run",
+    "Python.Lab098_POP.executor": "Run",
+    "Python.Lab099_Tuple.executor": "Run",
+    "Python.Lab100_Tuple.executor": "Run",
+    "Python.Lab101_Tuple.executor": "Run",
+    "Python.Lab102_SET.executor": "Run",
+    "Python.Lab103_SET_P2.executor": "Run",
+    "Python.Lab104_SET_P3.executor": "Run",
+    "Python.Lab105_IQ.executor": "Run",
+    "Python.Lab106_Dict.executor": "Run",
+    "Python.Lab107_Dict_P2.executor": "Run",
+    "Python.Lab108_Dict_Mul.executor": "Run",
+    "Python.Lab56_Q.executor": "Run",
+    "Python.LabFilter01.executor": "Run",
+    "Python.LabFilter02.executor": "Run",
+    "Python.LabFilter03.executor": "Run",
+    "Python.LabFilter04.executor": "Run",
+    "Python.LabForReverse.executor": "Run",
+    "Python.LabForUsedRealLife.executor": "Run",
+    "Python.LabMap02.executor": "Run",
+    "Python.LabMap03.executor": "Run",
+    "Python.LabQ01.executor": "Run",
+    "Python.LabQ02.executor": "Run",
+    "Python.LabQ03_REAL_Example.executor": "Run",
+    "Python.LabWhile.executor": "Run",
+    "Python.LabWhile_Vs_For.executor": "Run",
+    "Python.Lab_0013_Stringconcatanation.executor": "Run",
+    "Python.Lab_0014_Literals.executor": "Run",
+    "Python.Lab_0016_BuiltInFunction.executor": "Run",
+    "Python.Lab_0017_UserInput.executor": "Run",
+    "Python.Lab_0018_Sum of two numbers.executor": "Run",
+    "Python.Lab_0019_String.executor": "Run",
+    "Python.Lab_0020_StringConversion.executor": "Run",
+    "Python.Lab_0021_Stringconcat.executor": "Run",
+    "Python.Lab_0023_Escape_char.executor": "Run",
+    "Python.Lab_0024_String_Double_string.executor": "Run",
+    "Python.Lab_003.executor": "Run",
+    "Python.Number_Validation_greterthe100.executor": "Run",
+    "Python.Print numbers from 10 down to 1.executor": "Run",
+    "Python.SimmulationWebPageLoop.executor": "Run",
+    "Python.Skip numbers divisible by 3, from (0,100).executor": "Run",
+    "Python.Task1.executor": "Run",
+    "Python.Task2.executor": "Run",
+    "Python.VerifyAPIcall.executor": "Run",
+    "Python.VerifyAPIresponsecode.executor": "Run",
+    "Python.VerifyExpectedAndOutput.executor": "Run",
+    "Python.VerifyLoginCredentials.executor": "Run",
+    "Python.VerifyWebPageloadTimeout.executor": "Run",
+    "Python.ex_13_List.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master"
   }
-}</component>
-  <component name="RunManager" selected="Python.LabFilter04">
-    <configuration name="LabFilter02" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+}]]></component>
+  <component name="RunManager" selected="Python.Lab107_Dict_P2">
+    <configuration name="Lab106_Dict" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB6xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -172,11 +172,55 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_16_Map_Filters_List" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_17_Dict" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_16_Map_Filters_List/LabFilter02.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_17_Dict/Lab106_Dict.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Lab107_Dict_P2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PyATB6xLearning" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_17_Dict" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_17_Dict/Lab107_Dict_P2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Lab108_Dict_Mul" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PyATB6xLearning" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_17_Dict" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_17_Dict/Lab108_Dict_Mul.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -229,57 +273,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="LabMap02" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PyATB6xLearning" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_16_Map_Filters_List" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_16_Map_Filters_List/LabMap02.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="LabMap03" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PyATB6xLearning" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_16_Map_Filters_List" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_16_Map_Filters_List/LabMap03.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Lab107_Dict_P2" />
+        <item itemvalue="Python.Lab108_Dict_Mul" />
+        <item itemvalue="Python.Lab106_Dict" />
         <item itemvalue="Python.LabFilter04" />
         <item itemvalue="Python.LabFilter03" />
-        <item itemvalue="Python.LabFilter02" />
-        <item itemvalue="Python.LabMap03" />
-        <item itemvalue="Python.LabMap02" />
       </list>
     </recent_temporary>
   </component>
@@ -426,7 +426,15 @@
       <option name="project" value="LOCAL" />
       <updated>1763526367801</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="newcodepush">
+      <option name="closed" value="true" />
+      <created>1763529906852</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1763529906852</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -462,6 +470,10 @@
           <url>file://$PROJECT_DIR$/src/ex_05_Condition_Loops/Lab045_If_Else_Condition.py</url>
           <line>15</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/src/ex_17_Dict/Lab107_Dict_P2.py</url>
+          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
